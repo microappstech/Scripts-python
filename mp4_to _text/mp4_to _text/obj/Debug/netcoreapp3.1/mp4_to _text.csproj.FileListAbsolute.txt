@@ -1,0 +1,17 @@
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\bin\Debug\netcoreapp3.1\mp4_to _text.exe
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\bin\Debug\netcoreapp3.1\mp4_to _text.deps.json
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\bin\Debug\netcoreapp3.1\mp4_to _text.runtimeconfig.json
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\bin\Debug\netcoreapp3.1\mp4_to _text.runtimeconfig.dev.json
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\bin\Debug\netcoreapp3.1\mp4_to _text.dll
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\bin\Debug\netcoreapp3.1\mp4_to _text.pdb
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to__text.BloSite.resources
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to__text.Form1.resources
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.AssemblyInfo.cs
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.dll
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.pdb
+C:\Users\pc\Desktop\python\mp4_to _text\mp4_to _text\obj\Debug\netcoreapp3.1\mp4_to _text.genruntimeconfig.cache

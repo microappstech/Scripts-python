@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\python\Mp4_to_Wav\Mp4_to_Wav\obj\Debug\Mp4_to_Wav.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\python\Mp4_to_Wav\Mp4_to_Wav\obj\Debug\Mp4_to_Wav.Form1.resources
+C:\Users\pc\Desktop\python\Mp4_to_Wav\Mp4_to_Wav\obj\Debug\Mp4_to_Wav.Properties.Resources.resources
+C:\Users\pc\Desktop\python\Mp4_to_Wav\Mp4_to_Wav\obj\Debug\Mp4_to_Wav.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\python\Mp4_to_Wav\Mp4_to_Wav\obj\Debug\Mp4_to_Wav.csproj.CoreCompileInputs.cache
